@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-Data-Project
-This is my project repository for the Coursera class entitled [Getting and Cleaning Data] (https://www.coursera.org/course/getdata).  This project's goal is to read the Human Activity Recognition Using Smartphones data set and to perform an analysis on this data.
+This is my project repository for the Coursera class entitled [Getting and Cleaning Data] (https://www.coursera.org/course/getdata).  This project's goal is to read the **Human Activity Recognition Using Smartphones data set** and to perform an analysis on this data.
 
 This repository contains the following files:
 
