@@ -12,7 +12,7 @@ If attempting to use the **run_analysis.R** script, it assumes the following:
 
 * The raw data has been downloaded from (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) 
 * The raw data has been unzipped and the structure has not been altered.
-* The run_analysis.R script has been placed at the root of the unzipped directory structure
+* The **run_analysis.R** script has been placed at the root of the unzipped directory structure
 * The working directory is set to the root of the unzipped data set (i.e. "UCI HAR Dataset")
 
 The resulting output file, **tidy.txt** will be found at the root of the unzipped data set (i.e. "UCI HAR Dataset")
